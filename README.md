@@ -21,9 +21,17 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![Screenshot 2023-11-29 002031](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/c5a32cf5-c5ba-4f87-bd04-cceb8bc6b529)
+![Screenshot 2023-11-29 002053](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/b78f0aec-8a22-47d4-a6be-76c3e475c2e3)
+![Screenshot 2023-11-29 002106](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/7f6fb250-410e-4794-b482-6f9eb9049f3a)
+![Screenshot 2023-11-29 002157](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/e058b205-2cfd-41fb-ab2c-a118bbbea98b)
 
-### Name:
-### Register Number:
+
+
+
+
+### Name: VINISH RAJ R
+### Register Number: 23014040
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.

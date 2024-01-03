@@ -21,7 +21,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
-![Screenshot 2024-01-02 192923](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/7d49e938-9d39-4433-9f68-f8ca292fa2d0)
+![Screenshot 2024-01-03 062223](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/3dc45743-3126-4810-bcc5-3412a6d365da)
 ![Screenshot 2024-01-02 214834](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/07e04862-c9dd-48a5-8174-6b1ab05fa7cb)
 ![Screenshot 2024-01-02 214907](https://github.com/Vinishofficial/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/146931793/87996e16-ef1d-4841-8be9-a0f2a666eb79)
 
